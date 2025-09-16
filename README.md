@@ -22,14 +22,14 @@
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Thawanyfernandes&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thawanyfernandes&layout=compact&theme=radical)
-![Snake animation](https://github.com/Thawanyfernandes/Thawanyfernandes/blob/output/snake.svg)
+
 
 ---
 
 ## 📫 Como me encontrar
 
 - ✉️ Email: **thawany.karoline.sousa.fernandes@ccc.ufcg.edu.br**  
-- 💼 LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)  
+- 💼 LinkedIn:(www.linkedin.com/in/thawany-fernandes-664351303/)  
 
 ---
 
