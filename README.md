@@ -1,16 +1,41 @@
-## Hi there 👋
+## Oiiii,  eu sou a Thawany Fernandes! 👋
 
-<!--
-**Thawanyfernandes/ThawanyFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** na UFCG  
+💻 Desenvolvedora com experiência em **Java, Spring Boot e Python**  
+🤖 Interesses: **Inteligência Artificial, Backend, Inovação em Software**  
+✨ Pronouns: **ela/dela**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Thawanyfernandes&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thawanyfernandes&layout=compact&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+
+- ✉️ Email: **thawany.karoline.sousa.fernandes@ccc.ufcg.edu.br**  
+- 💼 LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)  
+
+---
+
+## ✨ Um pouco mais sobre mim
+- 🏊‍♀️ Atleta universitária de **natação**  
+- 🎶 Apaixonada por música 
+
+---
+
+⭐️ *Veja meus projetos, contribua ou me chame para trocar ideias!*
