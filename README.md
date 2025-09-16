@@ -22,6 +22,7 @@
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Thawanyfernandes&show_icons=true&theme=radical)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thawanyfernandes&layout=compact&theme=radical)
+![Snake animation](https://github.com/Thawanyfernandes/SEUUSUARIO/blob/output/snake.svg)
 
 ---
 
